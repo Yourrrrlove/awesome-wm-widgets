@@ -1,10 +1,17 @@
-# WeatherAPI widget
+# WeatherAPI Widget
 
 ![Current Weather popup](./popup.png)
 
+<<<<<<< Updated upstream
 The widget consists of one section:
 
 - current weather, including humidity, wind speed, UV index
+||||||| Stash base
+The widget consists of one section:
+- current weather, including humidity, wind speed, UV index
+=======
+This widget shows current weather, including humidity, wind speed, and UV index.
+>>>>>>> Stashed changes
 
 ## Customization
 
